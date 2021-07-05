@@ -4,6 +4,13 @@
 ## Steps to use
 
 1. Download the converted executable file from [here](https://drive.google.com/u/1/uc?export=download&confirm=ia7a&id=1SZ8QgYrEKrDLfRGCcm7m_ehaLe6w9qg6).
-2. Extract the rar file and open 3DViewer folder and click on 3DViewer.exe file.
+2. Extract the rar file and open 3DViewer folder and then click on 3DViewer.exe file.
+3. This window will appear.
+
+![](Data/3DViewer.png)
+
+  1. The top-left window is the Camera Window, where it will show the camera input
+  2. The down-left window is the Detection Window, it will show the detections from the camera input (For better results, there shouldn't be light coming from back)
+  3. The big right window is where the 3D model is visible. You can rotate it in 2 axis and scale it.
 
 
