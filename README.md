@@ -9,8 +9,20 @@
 
 ![](Data/3DViewer.png)
 
-  1. The top-left window is the Camera Window, where it will show the camera input
-  2. The down-left window is the Detection Window, it will show the detections from the camera input (For better results, there shouldn't be light coming from back)
-  3. The big right window is where the 3D model is visible. You can rotate it in 2 axis and scale it.
+- The top-left window is the Camera Window, where it will show the camera input.  
+- The down-left window is the Detection Window, it will show the detections from the camera input (For better results, there shouldn't be light coming from back).
+- The big right window is where the 3D model is visible. You can rotate it in 2 axis and scale it.
+- Wave/move your hand infront of camera to begin.
+
+4. There are three buttons below the Detection Window.
+- Upload: lets you upload .obj files to view.
+- Settings: Opens setting window (discussed later).
+- About: About me
+
+## Settings
+1. After opening the 3DViewer.exe, you can see the Settings button. Click that to open settings.
+
+
+
 
 
