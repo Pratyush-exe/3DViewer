@@ -3,7 +3,7 @@
 
 ## Steps to use
 
-1. Download the converted executable file from [here](https://drive.google.com/u/1/uc?export=download&confirm=ia7a&id=1SZ8QgYrEKrDLfRGCcm7m_ehaLe6w9qg6).
+1. Download the converted executable file from [here](https://drive.google.com/file/d/13eVVwl2JSb_LZxRPpM1lmC2tO3kv4ZFW/view?usp=sharing).
 2. Extract the rar file and open 3DViewer folder and then click on 3DViewer.exe file.
 3. This window will appear.
 
